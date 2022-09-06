@@ -1,0 +1,1 @@
+<pre>{{$template->template}}</pre>
